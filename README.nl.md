@@ -5,9 +5,9 @@ iPad naar projector
 > Het tonen van beelden op een projectiescherm vanuit een beamer (ook wel projector genoemd) met aan de bron een iPad.
 
 -   [Documentatie](./DOCUMENTATION.md)
--   [Glossarium](./GLOSSARY.md)
+-   [Glossary](./GLOSSARY.md)
 -   [Afbeeldingen](./IMAGES.md)
--   [Ingetogen](./PODMAN.md)
+-   [Podman](./PODMAN.md)
 -   [Referenties](./REFERENCES.md)
 -   [Telemetrie](./TELEMETRY.md)
 
@@ -23,7 +23,7 @@ Zien[README.md](./100/README.md)
 
 Zien[README.md](./200/README.md)
 
-## 300 - Building Our Application
+## 300 - Onze applicatie bouwen
 
 Zien[README.md](./300/README.md)
 

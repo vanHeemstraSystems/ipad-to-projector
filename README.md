@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+ipad-to-projector
+# iPad to Projector
 
-> Slugline
+> Showing images on a projection screen from a beamer (aka projector) with at the source an iPad.
 
 - [Documentation](./DOCUMENTATION.md)
 - [Glossary](./GLOSSARY.md)

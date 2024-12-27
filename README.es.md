@@ -5,13 +5,13 @@ ipad al proyector
 > Mostrar imágenes en una pantalla de proyección desde un proyector (también conocido como proyector) con un iPad en la fuente.
 
 -   [Documentación](./DOCUMENTATION.md)
--   [Glossary](./GLOSSARY.md)
+-   [Glosario](./GLOSSARY.md)
 -   [Imágenes](./IMAGES.md)
 -   [Suave](./PODMAN.md)
 -   [Referencias](./REFERENCES.md)
 -   [Telemetria](./TELEMETRY.md)
 
-**Executive Summary**
+**Resumen ejecutivo**
 
 Texto
 

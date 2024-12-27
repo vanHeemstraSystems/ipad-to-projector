@@ -13,7 +13,7 @@ ipad al proyector
 
 **Resumen ejecutivo**
 
-Text
+Texto
 
 ## 100 - Introducción
 

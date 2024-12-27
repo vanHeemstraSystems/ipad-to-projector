@@ -1,8 +1,8 @@
-ipad-to-projector
+باد إلى جهاز العرض
 
 # آي باد إلى جهاز العرض
 
-> Showing images on a projection screen from a beamer (aka projector) with at the source an iPad.
+> عرض الصور على شاشة العرض من جهاز العرض (المعروف أيضًا باسم جهاز العرض) مع وجود جهاز iPad في المصدر.
 
 -   [التوثيق](./DOCUMENTATION.md)
 -   [مسرد](./GLOSSARY.md)

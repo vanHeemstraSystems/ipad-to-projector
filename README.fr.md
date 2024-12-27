@@ -1,8 +1,8 @@
-nom du référentiel
+ipad-to-projector
 
-# Nom du référentiel
+# iPad vers projecteur
 
-> Slugline
+> Affichage d'images sur un écran de projection à partir d'un vidéoprojecteur (alias projecteur) avec à la source un iPad.
 
 -   [Documentation](./DOCUMENTATION.md)
 -   [Glossaire](./GLOSSARY.md)
@@ -23,7 +23,7 @@ Voir[README.md](./100/README.md)
 
 Voir[README.md](./200/README.md)
 
-## 300 - Construire notre application
+## 300 - Créer notre application
 
 Voir[README.md](./300/README.md)
 

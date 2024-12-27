@@ -1,8 +1,8 @@
-Repository-Name
+iPad-zu-Projektor
 
-# Repository Name
+# iPad zum Projektor
 
-> Slugline
+> Anzeigen von Bildern auf einer Projektionsfläche von einem Beamer (auch Projektor genannt) mit einem iPad an der Quelle.
 
 -   [Dokumentation](./DOCUMENTATION.md)
 -   [Glossar](./GLOSSARY.md)
@@ -11,7 +11,7 @@ Repository-Name
 -   [Referenzen](./REFERENCES.md)
 -   [Telemetrie](./TELEMETRY.md)
 
-**Zusammenfassung**
+**Executive Summary**
 
 Text
 
@@ -19,11 +19,11 @@ Text
 
 Sehen[README.md](./100/README.md)
 
-## 200 – Anforderungen
+## 200 - Requirements
 
 Sehen[README.md](./200/README.md)
 
-## 300 - Building Our Application
+## 300 – Erstellen unserer Anwendung
 
 Sehen[README.md](./300/README.md)
 

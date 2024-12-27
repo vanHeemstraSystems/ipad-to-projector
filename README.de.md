@@ -1,6 +1,6 @@
 iPad-zu-Projektor
 
-# iPad zum Projektor
+# iPad to Projector
 
 > Anzeigen von Bildern auf einer Projektionsfläche von einem Beamer (auch Projektor genannt) mit einem iPad an der Quelle.
 
@@ -8,8 +8,8 @@ iPad-zu-Projektor
 -   [Glossar](./GLOSSARY.md)
 -   [Bilder](./IMAGES.md)
 -   [Gedämpft](./PODMAN.md)
--   [References](./REFERENCES.md)
--   [Telemetrie](./TELEMETRY.md)
+-   [Referenzen](./REFERENCES.md)
+-   [Telemetry](./TELEMETRY.md)
 
 **Zusammenfassung**
 

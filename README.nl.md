@@ -1,8 +1,8 @@
-repositorynaam
+iPad naar projector
 
-# Naam van opslagplaats
+# iPad naar projector
 
-> Slaklijn
+> Het tonen van beelden op een projectiescherm vanuit een beamer (ook wel projector genoemd) met aan de bron een iPad.
 
 -   [Documentatie](./DOCUMENTATION.md)
 -   [Glossarium](./GLOSSARY.md)
@@ -29,4 +29,4 @@ Zien[README.md](./300/README.md)
 
 ## 400 - Conclusie
 
-Zien[README.md](./400/README.md)
+See [README.md](./400/README.md)

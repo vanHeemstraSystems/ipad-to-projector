@@ -8,7 +8,9 @@ iPad -> USB-C Output -> USB-C connector of Apple Connector with USB-A Input, USB
 
 Apple Connector
 
+![HDMI_Video_Capture](https://github.com/user-attachments/assets/49d22e65-ee7d-48e4-bcf1-b5ed979126b3)
 
+HDMI Video Capture
 
 ## HDMI Video Capture to Projector
 

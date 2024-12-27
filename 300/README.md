@@ -20,5 +20,5 @@ USB-A Input to USB-A Cable -> USB-A Power Plug to Power Socket (Mains).
 
 ## HDMI Video Capture to Loudspeaker
 
-HDMIN Video Capture -> RJ audio Jack Output -> UBL Portable Bluetooth Speaker with RJ audio Jack cable.
+HDMI Video Capture -> RJ audio Jack Output -> UBL Portable Bluetooth Speaker with RJ audio Jack cable.
 

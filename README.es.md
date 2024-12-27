@@ -1,17 +1,17 @@
-nombre-repositorio
+ipad al proyector
 
-# Nombre del repositorio
+# iPad al proyector
 
-> línea de bala
+> Mostrar imágenes en una pantalla de proyección desde un proyector (también conocido como proyector) con un iPad en la fuente.
 
 -   [Documentación](./DOCUMENTATION.md)
--   [Glosario](./GLOSSARY.md)
+-   [Glossary](./GLOSSARY.md)
 -   [Imágenes](./IMAGES.md)
 -   [Suave](./PODMAN.md)
 -   [Referencias](./REFERENCES.md)
 -   [Telemetria](./TELEMETRY.md)
 
-**Resumen ejecutivo**
+**Executive Summary**
 
 Texto
 

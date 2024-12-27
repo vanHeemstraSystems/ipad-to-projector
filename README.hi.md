@@ -5,11 +5,11 @@
 > स्रोत पर आईपैड के साथ बीमर (उर्फ प्रोजेक्टर) से प्रोजेक्शन स्क्रीन पर छवियां दिखाना।
 
 -   [प्रलेखन](./DOCUMENTATION.md)
--   [शब्दकोष](./GLOSSARY.md)
--   [इमेजिस](./IMAGES.md)
+-   [Glossary](./GLOSSARY.md)
+-   [Images](./IMAGES.md)
 -   [मातहत](./PODMAN.md)
 -   [संदर्भ](./REFERENCES.md)
--   [टेलीमेटरी](./TELEMETRY.md)
+-   [Telemetry](./TELEMETRY.md)
 
 **कार्यकारी सारांश**
 
@@ -17,7 +17,7 @@
 
 ## 100 - परिचय
 
-देखना[README.md](./100/README.md)
+See [README.md](./100/README.md)
 
 ## 200 - आवश्यकताएँ
 
